@@ -1,5 +1,3 @@
-Certainly. Below is a **concise but complete React (TypeScript-friendly) cheat sheet focused specifically on creating forms**. This is written for practical, day-to-day usage rather than theory, and it assumes functional components with Hooks.
-
 ---
 
 ## 1. Basic Form Skeleton
