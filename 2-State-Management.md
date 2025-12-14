@@ -1,6 +1,3 @@
-
-# CHEAT SHEET #2
-
 ## STATE MANAGEMENT (The Brain of React)
 
 If UI components are the *body*, **state is the nervous system**.
