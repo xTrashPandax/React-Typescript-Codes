@@ -1,5 +1,3 @@
----
-
 ## 1. Basic Form Skeleton
 
 ```tsx
@@ -254,5 +252,3 @@ function LoginForm() {
   );
 }
 ```
-
----
