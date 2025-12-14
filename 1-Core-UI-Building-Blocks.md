@@ -1,5 +1,3 @@
-## TODAY: CHEAT SHEET #1
-
 ### CORE UI BUILDING BLOCKS (Beyond Forms)
 
 This is the **foundation layer** everything else depends on.
